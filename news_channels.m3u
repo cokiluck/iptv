@@ -1,0 +1,91 @@
+#EXTM3U
+# News playlist - public/official live sources where available
+# NOTE: Stream URLs can change, expire, require geo-rights, or be unsupported by some IPTV apps.
+
+# ==================== 🇻🇳 VIETNAM ====================
+#EXTINF:-1 group-title="🇻🇳 Vietnam / VTV",VTV1
+https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / VTV",VTV2
+https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / VTV",VTV3
+https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / VTV",VTV4
+https://live-a.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / VTV",VTV5
+https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / VTV",VTV8
+https://live-a.fptplay53.net/live/media/vtv8/live-hls-avc/index.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / VTV",VTV9
+https://live-a.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / VTC",VTC1
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC1-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / VTC",VTC3
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC3-HD-720p/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / HTV",HTV7
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / HTV",HTV9
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / News",VNews - Vietnam News Agency
+https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/chunklist_w1632124918_b964000_sleng.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / News",ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / News",Quoc Phong Vietnam (QPVN)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / News",Quoc Hoi TV
+https://cloudstreamqh.tek4tv.vn/live/quochoitv_720p.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / Local",Da Nang TV1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / Local",Dong Thap TV
+http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / Local",Vinh Long 1
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / Local",Vinh Long 2
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
+
+# Vietnamese-American channels / programs
+# NOTE: YouTube entries require an IPTV app that supports YouTube URLs.
+#EXTINF:-1 group-title="🇻🇳 Vietnam / US Vietnamese",Little Saigon TV
+https://media.streambrothers.com:1936/8228/8228/chunklist_w1396658220.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam / US Vietnamese",Binh Quan Su - Le Minh (YouTube Live)
+https://www.youtube.com/@BinhQuanSuTV/live
+
+# ==================== 🇺🇸 USA NEWS ====================
+#EXTINF:-1 group-title="🇺🇸 USA News",ABC News Live
+https://abcnews.com/live?stream=3
+#EXTINF:-1 group-title="🇺🇸 USA News",CBS News 24/7
+https://www.cbsnews.com/live/
+#EXTINF:-1 group-title="🇺🇸 USA News",NBC News NOW
+https://www.nbcnews.com/now
+#EXTINF:-1 group-title="🇺🇸 USA News",CNN
+https://www.cnn.com/videos/live-stream-cnn
+#EXTINF:-1 group-title="🇺🇸 USA News",Fox News
+https://www.foxnews.com/live
+#EXTINF:-1 group-title="🇺🇸 USA News",Newsmax
+https://www.newsmax.com/watch/
+#EXTINF:-1 group-title="🇺🇸 USA News",C-SPAN
+https://www.c-span.org/networks/
+#EXTINF:-1 group-title="🇺🇸 USA News",PBS NewsHour
+https://www.pbs.org/newshour/watch
+#EXTINF:-1 group-title="🇺🇸 USA News",Reuters
+https://www.reuters.com/video/
+
+# ==================== 🇬🇧 UK NEWS ====================
+# BBC live availability in the USA is documented by BBC; access may require BBC.com/app subscription/rights.
+#EXTINF:-1 group-title="🇬🇧 UK News",BBC News
+https://www.bbc.com/news/live
+#EXTINF:-1 group-title="🇬🇧 UK News",Sky News
+https://news.sky.com/watch-live
+
+# ==================== 🌎 INTERNATIONAL NEWS ====================
+#EXTINF:-1 group-title="🌎 International News",Reuters
+https://www.reuters.com/video/
+#EXTINF:-1 group-title="🌎 International News",DW English
+https://www.dw.com/en/live-tv/channel-english
+#EXTINF:-1 group-title="🌎 International News",France 24 English
+https://www.france24.com/en/live
+#EXTINF:-1 group-title="🌎 International News",Al Jazeera English
+https://www.aljazeera.com/video/live
+#EXTINF:-1 group-title="🌎 International News",NHK WORLD-JAPAN
+https://www3.nhk.or.jp/nhkworld/en/live/
+#EXTINF:-1 group-title="🌎 International News",CNA
+https://www.channelnewsasia.com/watch
